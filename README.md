@@ -1,6 +1,6 @@
 # bg-remover-source
 
-## Overview
+## Project Overview
 
 This background remover tool is designed to remove backgrounds from images using deep learning techniques. It utilizes the isnet_dis.onnx model to perform the background removal process.
 
